@@ -1,0 +1,10 @@
+# maven build folder
+target
+
+# temporary node build folder
+node_modules
+node
+dist
+
+# ignore IntelliJ project content
+.idea
