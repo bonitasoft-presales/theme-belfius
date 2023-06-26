@@ -2,11 +2,9 @@
 //${project.basedir}/node_modules/bootstrap-sass/assets/stylesheets/bootstrap/_variable.scss
 
 //Brand colors
-$brand-primary: #0669BF;
-$brand-secundary: #0477BF;
-$brand-terciary: #04ADBF;
-$brand-fourth: #F2D272;
-$brand-fifth: #F25F29;
+$brand-primary: #c30045;
+$brand-secundary: #89a2b6;
+$brand-terciary: #d1184d;
 $brand-success: #008000;
 $brand-info: $brand-terciary;
 $brand-warning: #dd5600;
@@ -71,16 +69,16 @@ $navbar-default-toggle-hover-bg: #1a242f;
 $navbar-default-toggle-icon-bar-bg: $white;
 $navbar-default-toggle-border-color: #1a242f;
 
-$navbar-inverse-bg: $brand-primary;
+$navbar-inverse-bg: $brand-secundary;
 $navbar-inverse-color: $white;
 $navbar-inverse-link-color: $white;
 
-$navbar-inverse-link-hover-bg: $brand-secundary;
-$navbar-inverse-link-active-bg: $brand-secundary;
+$navbar-inverse-link-hover-bg: $brand-primary;
+$navbar-inverse-link-active-bg: $brand-primary;
 $navbar-inverse-link-disabled-color: #cccccc;
 
 $navbar-inverse-toggle-border-color: $brand-secundary;
-$navbar-inverse-toggle-hover-bg: $brand-secundary;
+$navbar-inverse-toggle-hover-bg: $brand-terciary;
 $navbar-inverse-toggle-icon-bar-bg: $white;
 
 //Dropdown
